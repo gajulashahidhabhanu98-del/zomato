@@ -23,3 +23,5 @@ spec:
     - port: 3000
       targetPort: 3000
       nodePort: 30001
+# Developer 2: service configuration reviewed
+
